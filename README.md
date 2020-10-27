@@ -1,5 +1,6 @@
 # signal-search-api
-An API to search the FCC database for DTV signal strengths at a given location.  
+An API to search the FCC LMS and CDBS databases for DTV signal strengths at a given location. 
+
 This API would accept GET requests only and would require a valid API key to authorize all requests.
 
 Input:
